@@ -2,6 +2,12 @@
 # Overview
 # Resources
 # Results
+* Checkout Times for Users
+The line graph shows the number of bikes (citi_bikedata.csv data) on the y-axis and trip duration (divided into hours and minutes) on the x-axis. It is filtered to show 0-2 hours.
+
+![Checkout Times for users'](https://user-images.githubusercontent.com/104453593/184048587-f1f4462d-f1a2-4909-9d21-e52b1d1fa1a7.PNG)
+
+
 * Peak Hours
 
 ![August peak hours](https://user-images.githubusercontent.com/104453593/184046682-6e34e997-0543-4c8b-acf5-336bcae9fefc.PNG)
