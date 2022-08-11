@@ -2,7 +2,7 @@
 # Overview
 # Resources
 * Dataset
-https://s3.amazonaws.com/tripdata/index.html
+(https://s3.amazonaws.com/tripdata/index.html)
 * Softwares used:
 1) Tableau Public
 2) Pandas Library
