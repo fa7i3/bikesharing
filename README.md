@@ -28,10 +28,9 @@ THe heatmap below shows the number of trips per weekday that bikes were checked 
 ![usertrip by gender](https://user-images.githubusercontent.com/104453593/184068265-d021c7a5-3229-42e3-951e-b64660d8d772.PNG)
 
 
-* Peak Hours
+* Staring and Ending Locatgions
+The two graph shows the top start and end locations. Accorong to the graph, the larger and darker the bubbles, the higher the number of bike users.
 
-![August peak hours](https://user-images.githubusercontent.com/104453593/184046682-6e34e997-0543-4c8b-acf5-336bcae9fefc.PNG)
-
-According to the bar graph above, during August, the peak hours in which the bikes were used was between 5-6pm (early evening) and 8am (morning). This shows that people utilize in the movement to and from their jobs due to the peak hours. 
+![start and end locations](https://user-images.githubusercontent.com/104453593/184068902-5ad80b20-4469-4fad-80b6-6bc03085af76.PNG)
 
 
