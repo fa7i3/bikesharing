@@ -2,12 +2,15 @@
 # Overview
 # Resources
 * Dataset
+ 
  Download the 201908-citibike-tripdata.csv.zip from (https://s3.amazonaws.com/tripdata/index.html)
+ 
 * Softwares used:
 1) Tableau Public
 2) Pandas Library
 3) Jupyter Notebook
 4) Python
+
 # Results
 * Checkout Times for Users
 
@@ -53,4 +56,6 @@ The two graphs show the top start and end locations. Accorong to the graph, the 
 
 ![start and end locations](https://user-images.githubusercontent.com/104453593/184068902-5ad80b20-4469-4fad-80b6-6bc03085af76.PNG)
 
+# Summary
+An additional visualization that can be added will be analyzing the bike checkout times by age.
 
