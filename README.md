@@ -3,7 +3,8 @@
 # Resources
 * Dataset
 * Softwares used:
-i) Tableau Public
+
+. Tableau Public
 ii) Pandas Library
 3) Jupyter Notebook
 4) Python
