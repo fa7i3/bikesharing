@@ -64,3 +64,4 @@ The two graphs show the top start and end locations in New York City. According 
 # Summary
 An additional visualization that can be added will be analyzing the bike checkout times by age.
 
+https://public.tableau.com/app/profile/faith.emenike/viz/Module14Challengenew/NYCCitibike?publish=yes
