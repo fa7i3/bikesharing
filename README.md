@@ -7,6 +7,8 @@ The line graph shows the number of bikes (citi_bikedata.csv data) on the y-axis 
 
 ![Checkout Times for users'](https://user-images.githubusercontent.com/104453593/184048587-f1f4462d-f1a2-4909-9d21-e52b1d1fa1a7.PNG)
 
+* Checkout Times by Gender
+
 
 * Peak Hours
 
