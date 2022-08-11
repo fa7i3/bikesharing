@@ -1,6 +1,12 @@
 # bikesharing
 # Overview
 # Resources
+* Dataset
+* Softwares used:
+1) Tableau Public
+2) Pandas Library
+3) Jupyter Notebook
+4) Python
 # Results
 * Checkout Times for Users
 
