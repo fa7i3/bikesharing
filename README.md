@@ -1,5 +1,6 @@
 # bikesharing
 # Overview
+
 # Resources
 * Dataset
  
@@ -52,7 +53,7 @@ The graph with bubbles shows the levels of bike utilization by bike id. The high
 
 * Staring and Ending Locatgions
 
-The two graphs show the top start and end locations. Accorong to the graph, the larger and darker the bubbles, the higher the number of bike users.
+The two graphs show the top start and end locations in New York City. According to the graph, the larger and darker the bubbles, the higher the number of bike users.
 
 ![start and end locations](https://user-images.githubusercontent.com/104453593/184068902-5ad80b20-4469-4fad-80b6-6bc03085af76.PNG)
 
