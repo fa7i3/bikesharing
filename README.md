@@ -8,6 +8,10 @@ The line graph shows the number of bikes (citi_bikedata.csv data) on the y-axis 
 ![Checkout Times for users'](https://user-images.githubusercontent.com/104453593/184048587-f1f4462d-f1a2-4909-9d21-e52b1d1fa1a7.PNG)
 
 * Checkout Times by Gender
+The line graph shows the number of bikes (citi_bikedata.csv data) on the y-axis and trip duration (divided into hours and minutes) on the x-axis. Accoridng to the filter on the line graph, the orange represents the male, blue represnts the female and red represents the unknown. The line graph shows that males checkout bikes more than the all other genders (i.e. female and unknown) esp;ecially in the first hour.
+
+![Checkout Time by Gender](https://user-images.githubusercontent.com/104453593/184065252-0ebc482b-80a6-426c-9b46-0ab4da8e5063.PNG)
+
 
 
 * Peak Hours
