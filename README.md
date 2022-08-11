@@ -2,8 +2,9 @@
 # Overview
 # Resources
 * Dataset
+https://s3.amazonaws.com/tripdata/index.html
 * Softwares used:
-^ Tableau Public
+1) Tableau Public
 2) Pandas Library
 3) Jupyter Notebook
 4) Python
