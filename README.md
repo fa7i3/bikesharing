@@ -12,7 +12,7 @@ This page contains the following information:
 # Resources
 * Dataset
  
- Download the 201908-citibike-tripdata.csv.zip from (https://s3.amazonaws.com/tripdata/index.html)
+ Download the 201908-citibike-tripdata.csv.zip from [https://s3.amazonaws.com/tripdata/index.html]
  
 * Softwares used:
 1) Tableau Public
