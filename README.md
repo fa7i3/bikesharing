@@ -6,6 +6,7 @@ This page contains the following information:
 * Peak Rides by Gender;
 * Number of Rides;
 * Customer type.
+
 ![OVERVIEW](https://user-images.githubusercontent.com/104453593/184251725-ff2fa9ee-4826-48dd-84c1-4d4e917454cf.PNG)
 
 
@@ -23,6 +24,7 @@ This page contains the following information:
 # Results
 
 The Tableau story of the NYC CitiBike can be found using the link:
+
 [NYC Citibike Story](https://public.tableau.com/app/profile/faith.emenike/viz/Module14Challengenew/NYCCitibike?publish=yes)
 
 
