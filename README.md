@@ -2,7 +2,10 @@
 # Overview
 The purpose of the project was to create a pitch for a bike-sharing (citi bike) solid business proposal to convince investors to fund the program. To solidify the buisness proposal, the goal of the challenge was to analyse the bike-sharing (citi bike) data in New York City in the month of August. I also analysed how the bike-sharing business operates in the peak summer period.
 The first page of the Tableau story contains basic information about the data provided in the csv dataset. 
-This page contains the information: 
+This page contains the following information: 
+* Peak Rides by Gender;
+* Number of Rides;
+* Customer type.
 ![OVERVIEW](https://user-images.githubusercontent.com/104453593/184251725-ff2fa9ee-4826-48dd-84c1-4d4e917454cf.PNG)
 
 
