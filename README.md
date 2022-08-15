@@ -21,6 +21,11 @@ This page contains the following information:
 4) Python
 
 # Results
+
+The Tableau story of the NYC CitiBike can be found using the link:
+[NYC Citibike Story](https://public.tableau.com/app/profile/faith.emenike/viz/Module14Challengenew/NYCCitibike?publish=yes)
+
+
 * Checkout Times for Users
 
 The line graph shows the number of bikes (citi_bikedata.csv data) on the y-axis and trip duration (divided into hours and minutes) on the x-axis. It is filtered to show 0-2 hours.
@@ -68,4 +73,3 @@ The two graphs show the top start and end locations in New York City. According 
 # Summary
 An additional visualization that can be added will be analyzing the bike checkout times by age.
 
-https://public.tableau.com/app/profile/faith.emenike/viz/Module14Challengenew/NYCCitibike?publish=yes
